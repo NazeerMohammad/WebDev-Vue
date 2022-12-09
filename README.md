@@ -1,4 +1,4 @@
-# deepak-vue-frontend
+# Nazeer-vue-frontend
 
 ## Project setup
 ```

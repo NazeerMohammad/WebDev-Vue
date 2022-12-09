@@ -1,0 +1,37 @@
+{"Mangas": [{
+    "id":1,
+    "title": "APOTHEOSIS",
+    "yearOfRelease": 2016,
+    "AuthorName": "ranzai",
+    "genre":"Action - Fantasy - Martial arts - Shounen",
+    "IMDBRating":"7.1"
+   },
+  { "id":2,
+   "title": "SOLO LEVELLING",
+   "yearOfRelease": 2016,
+   "AuthorName": "Chugong",
+   "genre":"Action - Adventure - Fantasy - Shounen - Webtoons",
+   "IMDBRating":"9.2"
+  },
+  { "id":3,
+  "title": "TOWER OF GOD",
+  "yearOfRelease": 2010,
+  "AuthorName": "Lee Jong-hui",
+  "genre":"Action - Adventure - Comedy - Drama - Fantasy - Mystery - Psychological - Shounen - Supernatural - Webtoons - Manhwa",
+  "IMDBRating":"8.2"
+ },
+ { "id":4,
+ "title": "Tale of Demons and Gods",
+ "yearOfRelease": 2015,
+ "AuthorName": "Mad snail" ,
+ "genre":"Action - Adventure - Comedy - Drama - Fantasy - Harem - Romance - Shounen - Manhua",
+ "IMDBRating":"8.7"
+},
+{ "id":5,
+"title": "VERSATILE MAGE",
+"yearOfRelease": 2017,
+"AuthorName": "Chaos",
+"genre":"Action  Comedy  Drama  Fantasy  School Life  Shounen  Supernatural",
+"IMDBRating":"7.4"
+}
+   ]}

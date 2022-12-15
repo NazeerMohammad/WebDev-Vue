@@ -26,7 +26,7 @@ data(){
   methods: {
 
       async fetchManga(){
-         const res= await fetch("http://localhost:7230/Mangas")
+         const res= await fetch("http://localhost:4435/Mangas")
          const data= await res.json()
           console.log(data)
          return data
